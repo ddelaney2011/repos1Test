@@ -1,0 +1,12 @@
+ Volume in drive C is Windows7_OS
+ Volume Serial Number is A83B-E216
+
+ Directory of C:\GitSampleProject
+
+12/07/2018  02:48 PM    <DIR>          .
+12/07/2018  02:48 PM    <DIR>          ..
+12/07/2018  02:48 PM                 0 x.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  391,053,369,344 bytes free
+
+Rev 2:  this is revision #2
