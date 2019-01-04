@@ -1,0 +1,2 @@
+this is a test file line 1
+this is line 2 added after adding this file to git stage
