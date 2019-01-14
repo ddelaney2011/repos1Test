@@ -1,1 +1,3 @@
 this is file02.txt for testing stuff
+
+new line added
